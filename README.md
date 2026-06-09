@@ -105,6 +105,39 @@ This list is available under the [CC0-1.0 license](https://creativecommons.org/p
 
 ---
 
+### 🎮 Fun Tools
+- [Stopwatch](https://www.jiebang.site/tools/stopwatch.html)
+- [Pomodoro Timer](https://www.jiebang.site/tools/pomodoro.html)
+- [Dice Roller](https://www.jiebang.site/tools/dice-roller.html)
+- [Coin Flip](https://www.jiebang.site/tools/coin-flip.html)
+- [Reaction Time Test](https://www.jiebang.site/tools/reaction-time.html)
+- [Typing Speed Test](https://www.jiebang.site/tools/typing-test.html)
+- [Minesweeper](https://www.jiebang.site/tools/minesweeper.html)
+- [2048 Game](https://www.jiebang.site/tools/2048.html)
+
+## 🌍 English Version Available
+
+JieBang also provides an **English version** with dedicated tool pages:
+- [AI Slogan Generator](https://www.jiebang.site/en/tools/ai-slogan-generator.html)
+- [AI Brand Name Generator](https://www.jiebang.site/en/tools/ai-brand-name-generator.html)
+- [Batch File Renamer](https://www.jiebang.site/en/tools/batch-file-renamer.html)
+- [Chmod Calculator](https://www.jiebang.site/en/tools/chmod-calculator.html)
+- [JSON Path Finder](https://www.jiebang.site/en/tools/json-path-finder.html)
+
+## 📊 Stats
+
+- **200+** Tools
+- **148** Chinese tools
+- **132** English tools
+- **27** PWA offline tools
+- **100%** Free, no registration
+
+## 🤝 Contributing
+
+Found a great tool that's missing? Open an issue or submit a PR!
+
+---
+
 **Like this list? ⭐ Star this repo and share it!**
 
 Made with ❤️ by [JieBang](https://www.jiebang.site)
