@@ -10,14 +10,15 @@
 - 📱 **Works Everywhere** — Desktop, mobile, offline (PWA supported)
 - 🌍 **Bilingual** — Available in both Chinese and English
 - ⚡ **Instant** — No server processing, results in milliseconds
+- 🤖 **AI-Powered** — AI text humanizer, content rewriter, slogan generator
 
 ## Tool Categories
 
 ### 🔧 Developer Tools
 - [JSON Formatter & Validator](https://www.jiebang.site/tools/json-formatter)
 - [Regex Tester](https://www.jiebang.site/tools/regex-tester)
-- [Base64 Encode/Decode](https://www.jiebang.site/tools/base64)
-- [URL Encode/Decode](https://www.jiebang.site/tools/url-encode)
+- [Base64 Encode/Decode](https://www.jiebang.site/tools/base64-encode-decode)
+- [URL Encode/Decode](https://www.jiebang.site/tools/url-encode-decode)
 - [JWT Decoder](https://www.jiebang.site/tools/jwt-decoder)
 - [JSON Path Query](https://www.jiebang.site/tools/json-path)
 - [Chmod Calculator](https://www.jiebang.site/tools/chmod-calculator)
@@ -27,6 +28,9 @@
 - [Markdown Editor](https://www.jiebang.site/tools/markdown-editor)
 - [Code Diff](https://www.jiebang.site/tools/code-diff)
 - [API Tester](https://www.jiebang.site/tools/api-tester)
+- [Hash Calculator (MD5/SHA-256/SHA-512)](https://www.jiebang.site/tools/hash-calculator)
+- [HTML Entity Encoder](https://www.jiebang.site/tools/html-entity-encoder)
+- [UUID Generator](https://www.jiebang.site/tools/uuid-generator)
 
 ### 🎨 Design Tools
 - [Color Converter](https://www.jiebang.site/tools/color-converter)
@@ -35,6 +39,7 @@
 - [Image Compressor](https://www.jiebang.site/tools/image-compressor)
 - [QR Code Generator](https://www.jiebang.site/tools/qrcode-generator)
 - [Favicon Generator](https://www.jiebang.site/tools/favicon-generator)
+- [Image Format Converter](https://www.jiebang.site/tools/image-convert)
 
 ### 📝 Text Tools
 - [Word Counter](https://www.jiebang.site/tools/word-counter)
@@ -43,6 +48,7 @@
 - [Text Encryption](https://www.jiebang.site/tools/text-encrypt)
 - [Text Comparison](https://www.jiebang.site/tools/text-compare)
 - [Case Converter](https://www.jiebang.site/tools/case-converter)
+- [Text Deduplicator](https://www.jiebang.site/tools/text-deduplicate)
 
 ### 📊 Data Tools
 - [Data Visualization](https://www.jiebang.site/tools/data-visualization)
@@ -51,26 +57,32 @@
 - [Scientific Calculator](https://www.jiebang.site/tools/scientific-calculator)
 - [Unit Converter](https://www.jiebang.site/tools/unit-converter)
 - [Timestamp Converter](https://www.jiebang.site/tools/timestamp)
+- [Percentage Calculator](https://www.jiebang.site/tools/percentage-calculator)
 
 ### 🔐 Security Tools
 - [Password Generator](https://www.jiebang.site/tools/password-generator)
-- [Hash Generator](https://www.jiebang.site/tools/hash-generator)
+- [Hash Generator](https://www.jiebang.site/tools/hash-calculator)
 - [HMAC Generator](https://www.jiebang.site/tools/hmac-generator)
-- [UUID Generator](https://www.jiebang.site/tools/uuid-generator)
+- [RSA Key Pair Generator](https://www.jiebang.site/tools/rsa-generator)
 
 ### 🤖 AI Tools
 - [AI Text Humanizer](https://www.jiebang.site/tools/ai-humanizer) - Transform AI-generated text into natural, human-sounding writing
 - [AI Content Rewriter](https://www.jiebang.site/tools/ai-rewriter) - Rewrite and rephrase text with AI assistance
+- [AI Slogan Generator](https://www.jiebang.site/tools/ai-slogan-generator)
+- [AI Brand Name Generator](https://www.jiebang.site/tools/ai-brand-name-generator)
 
 ### 🔍 SEO Tools
 - [SEO Analyzer](https://www.jiebang.site/tools/seo-analyzer) - Comprehensive website SEO health check and recommendations
-- [Cron Expression Parser](https://www.jiebang.site/tools/cron-parser) - Parse and explain cron expressions with next run times
-- [JSON Date Converter](https://www.jiebang.site/tools/json-date-converter) - Convert between JSON date formats and human-readable dates
+- [Meta Description Generator](https://www.jiebang.site/tools/meta-description-generator)
+- [Keyword Density Checker](https://www.jiebang.site/tools/keyword-extractor)
+- [Robots.txt Generator](https://www.jiebang.site/tools/robots-generator)
 
 ### 🖼️ Image Tools
-- [Nine-Grid Image Cutter](https://www.jiebang.site/tools/nine-grid) - Split images into 9 parts for social media posts
-- [OCR Text Recognizer](https://www.jiebang.site/tools/ocr) - Extract text from images with optical character recognition
-- [ICO Icon Generator](https://www.jiebang.site/tools/ico-generator) - Generate favicon ICO files from images
+- [Nine-Grid Image Cutter](https://www.jiebang.site/tools/nine-grid) - Split images for social media
+- [OCR Text Recognizer](https://www.jiebang.site/tools/ocr) - Extract text from images
+- [ICO Icon Generator](https://www.jiebang.site/tools/ico-generator)
+- [Image Background Remover](https://www.jiebang.site/tools/bg-remover)
+- [Image Watermark](https://www.jiebang.site/tools/image-watermark)
 
 ### 📁 File Tools
 - [PDF Text Extractor](https://www.jiebang.site/tools/pdf-extract)
@@ -89,6 +101,8 @@
 - [Date Calculator](https://www.jiebang.site/tools/date-calculator)
 - [Stopwatch](https://www.jiebang.site/tools/stopwatch)
 - [Random Number Generator](https://www.jiebang.site/tools/random-number)
+- [Dice Roller](https://www.jiebang.site/tools/dice-roller)
+- [Coin Flip](https://www.jiebang.site/tools/coin-flip)
 
 ## 🚀 Smart Paste Feature
 
@@ -103,47 +117,27 @@ Just paste anything and get the right tool instantly!
 ## 📦 PWA Support
 
 Install JieBang as a Progressive Web App for:
-- ⚡ Offline access to 27+ core tools
+- ⚡ Offline access to core tools
 - 📱 App-like experience on mobile
 - 🔄 Background sync and caching
 
 ## 🔗 Links
 
 - 🌐 Website: [www.jiebang.site](https://www.jiebang.site)
-- 📋 Tool Wishlist: [jiebang.site/wishlist](https://www.jiebang.site/wishlist)
-- 📖 API Docs: [jiebang.site/api-docs](https://www.jiebang.site/api-docs)
+- 📖 Learn Guides: [jiebang.site/learn](https://www.jiebang.site/learn)
+- 📚 API Docs: [jiebang.site/api-docs](https://www.jiebang.site/api-docs)
+- 💻 GitHub: [github.com/jiebang-tools/tools](https://github.com/jiebang-tools/tools)
 
 ## 📄 License
 
 This list is available under the [CC0-1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
----
-
-### 🎮 Fun Tools
-- [Stopwatch](https://www.jiebang.site/tools/stopwatch)
-- [Pomodoro Timer](https://www.jiebang.site/tools/pomodoro)
-- [Dice Roller](https://www.jiebang.site/tools/dice-roller)
-- [Coin Flip](https://www.jiebang.site/tools/coin-flip)
-- [Reaction Time Test](https://www.jiebang.site/tools/reaction-time)
-- [Typing Speed Test](https://www.jiebang.site/tools/typing-test)
-- [Minesweeper](https://www.jiebang.site/tools/minesweeper)
-- [2048 Game](https://www.jiebang.site/tools/2048)
-
-## 🌍 English Version Available
-
-JieBang also provides an **English version** with dedicated tool pages:
-- [AI Slogan Generator](https://www.jiebang.site/en/tools/ai-slogan-generator)
-- [AI Brand Name Generator](https://www.jiebang.site/en/tools/ai-brand-name-generator)
-- [Batch File Renamer](https://www.jiebang.site/en/tools/batch-file-renamer)
-- [Chmod Calculator](https://www.jiebang.site/en/tools/chmod-calculator)
-- [JSON Path Finder](https://www.jiebang.site/en/tools/json-path-finder)
-
 ## 📊 Stats
 
-- **200+** Tools
-- **148** Chinese tools
-- **132** English tools
-- **27** PWA offline tools
+- **320+** Total pages (Chinese + English)
+- **170+** Chinese tools
+- **154+** English tools
+- **PWA** Offline support
 - **100%** Free, no registration
 
 ## 🤝 Contributing
