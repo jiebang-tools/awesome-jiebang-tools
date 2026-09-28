@@ -15,6 +15,7 @@
 ## Tool Categories
 
 ### 🔧 Developer Tools
+- [File Converter](https://fileontap.com/) - Free no-registration browser-local conversion and compression for HEIC, WebP, PNG and JPG, plus image↔PDF.
 - [JSON Formatter & Validator](https://www.jiebang.site/tools/json-formatter)
 - [Regex Tester](https://www.jiebang.site/tools/regex-tester)
 - [Base64 Encode/Decode](https://www.jiebang.site/tools/base64-encode-decode)
