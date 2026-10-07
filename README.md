@@ -58,6 +58,7 @@
 - [Unit Converter](https://www.jiebang.site/tools/unit-converter)
 - [Timestamp Converter](https://www.jiebang.site/tools/timestamp)
 - [Percentage Calculator](https://www.jiebang.site/tools/percentage-calculator)
+- [NakupSladilcev Engagement Rate (Slovenian)](https://nakupsladilcev.si/tools/engagement-rate) - Calculate likes plus comments as a percentage of followers, reach or views locally, without an account.
 
 ### 🔐 Security Tools
 - [Password Generator](https://www.jiebang.site/tools/password-generator)
